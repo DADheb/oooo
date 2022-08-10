@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void yguyyu(String[] args) throws InterruptedException {
         System.out.println(0);
     }
 }
